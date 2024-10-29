@@ -15,11 +15,11 @@ This data analysis project aims to provide insights, analyze and visualize resta
 
 ### DATA SOURCES -
 
-PRIMARY DATA: The primary dataset used for this analysis is the "[zomato.csv](#zomato.csv)" file, containing detailed information about each order and customer data gained from sources and utilized by the company.
+PRIMARY DATA : The primary dataset used for this analysis is the "[zomato.csv](#zomato.csv)" file, containing detailed information about each order and customer data gained from sources and utilized by the company.
 
 ### TOOLS -
 
-- PYTHON LANGUAGE AND JUPYTER NOTEBOOK:
+- PYTHON LANGUAGE AND JUPYTER NOTEBOOK :
 
 1. Loading the Dataset.
 2. Data Cleaning.
