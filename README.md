@@ -1,6 +1,6 @@
 # Zomato Data Analysis
 
-## TABLE OF CONTENTS -
+## TABLE OF CONTENTS
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
@@ -9,15 +9,15 @@
 - [Exploratary Data Analysis](#exploratary-data-analysis)
 - [Visualizations Below](#visualizations-below)
 
-### PROJECT OVERVIEW -
+### PROJECT OVERVIEW
 
 This data analysis project aims to provide insights, analyze and visualize restaurant data from Zomato to derive insights about restaurant performance, customer preferences, and trends in the food industry.This project aims to provide actionable insights into the restaurant industry by leveraging Zomato data, helping stakeholders make informed decisions to enhance customer experience and operational efficiency.
 
-### DATA SOURCES -
+### DATA SOURCES
 
 PRIMARY DATA : The primary dataset used for this analysis is the "[zomato.csv](#zomato.csv)" file, containing detailed information about each order and customer data gained from sources and utilized by the company.
 
-### TOOLS -
+### TOOLS
 
 - PYTHON LANGUAGE AND JUPYTER NOTEBOOK :
 
@@ -26,14 +26,14 @@ PRIMARY DATA : The primary dataset used for this analysis is the "[zomato.csv](#
 3. Exploratary Data Analysis.
 4. Data Visualization.
 
-### DATA CLEANING / PREPARATION -
+### DATA CLEANING / PREPARATION
 
 1. Data Loading and Inspection.
 2. Handling Missing Values.
 3. Data Cleaning and Formatting.
 4. Creation and Deletion of Columns.
 
-### EXPLORATARY DATA ANALYSIS -
+### EXPLORATARY DATA ANALYSIS
 
 1. What type of restaurant do the majority of customers order from?
 2. How many votes has each type of restaurant received from customers?
@@ -42,7 +42,7 @@ PRIMARY DATA : The primary dataset used for this analysis is the "[zomato.csv](#
 5. Which mode (online or offline) has received the maximum rating?
 6. Which type of restaurant received more offline orders, so that Zomato can provide customers with some good offers?
 
-### VISUALIZATIONS BELOW -
+### VISUALIZATIONS BELOW
 
 ![Votes_Each_Type_Of_Restaurant](https://github.com/user-attachments/assets/c91373fa-96e9-464c-a3a0-5659972bc13a)
 
